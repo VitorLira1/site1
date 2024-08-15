@@ -1,15 +1,15 @@
 .imagem {
     float: left;
     margin-right: 15px;
-    width: 200px; /* Ajusta a largura da imagem */
+    width: 200px;
 }
 
 .container {
-    overflow: hidden; /* Garante que o contêiner se ajuste corretamente */
+    overflow: hidden; 
 }
 
 #txtapr {
-    width: 800px; /* Ajusta a largura do parágrafo */
+    width: 800px; 
     word-wrap: break-word;
     overflow-wrap: break-word;
 
